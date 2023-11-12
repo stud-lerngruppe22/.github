@@ -1,4 +1,9 @@
-# Hi there 👋
+# Stud Lerngruppe 22 der FH Dortmund
+
+Die Organisation einer Lerngruppe der FH Dortmund.
+
+Website:
+https://stud-lerngruppe22.great-site.net/
 
 <!--
 
